@@ -18,3 +18,5 @@ CPU: Ryzen 7 5800X3D
 RAM: 16GB
 
 GPU: GTX 1070
+
+  ![Screenshot](Screenshot.png)
